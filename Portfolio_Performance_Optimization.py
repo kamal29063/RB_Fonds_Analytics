@@ -96,7 +96,7 @@ def run_Portfolio_Performance_Optimization(language_index):
 
 
         # Path to your local SVG file
-        svg_path = rf'Images\Countries Flags\{origin}.svg'
+        svg_path = r'Images\Countries Flags\{origin}.svg'
 
         import urllib.parse
 
